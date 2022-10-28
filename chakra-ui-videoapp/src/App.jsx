@@ -2,9 +2,11 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 const App = () => {
     return (
-        <div>
-            
-        </div>
+        <Router>
+            <Routes>
+                <Route/>
+            </Routes>
+        </Router>
     )
 }
 

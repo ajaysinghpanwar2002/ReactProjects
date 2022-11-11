@@ -13,12 +13,13 @@ function Navbar() {
     return (
         <div>
             <Link to="/">Home</Link>
-            <Link to="/login">Login</Link>
+            {!user ? <Link to="/login">Login</Link> : <Link to="/createpost">Create Post</Link>}
+
             <div>
                 {user && (
                     <>
                         <p> {user?.displayName} </p>
-                        <img src={user?.photoURL || ""} alt="ajay" width="100" height="100" border-radius = "50%"/>
+                        <img src={user?.photoURL || ""} alt="ajay" width="100" height="100" border-radius="50%" />
                         <button onClick={signUserOut}>Sign Out</button>
                     </>
                 )}

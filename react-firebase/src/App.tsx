@@ -5,6 +5,7 @@ import './App.css';
 //pages
 import Login from './pages/Login';
 import Main from './pages/Main';
+import CreatePost from './pages/create-post/CreatePost';
 //components
 import Navbar from './components/Navbar';
 
@@ -16,6 +17,7 @@ function App() {
         <Routes>
         <Route path='/' element={<Main/>}/>
         <Route path='/login' element={<Login/>}/>
+        <Route path='/createpost' element={<CreatePost/>}/>
         </Routes>
       </Router>
     </div>

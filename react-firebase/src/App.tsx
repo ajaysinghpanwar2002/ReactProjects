@@ -4,7 +4,7 @@ import './App.css';
 
 //pages
 import Login from './pages/Login';
-import Main from './pages/Main';
+import Main from './pages/main/Main';
 import CreatePost from './pages/create-post/CreatePost';
 //components
 import Navbar from './components/Navbar';

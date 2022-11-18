@@ -1,0 +1,81 @@
+{
+    "projects": [
+        {
+            "date": "21/1/2022",
+            "title": "OuronlineMeal website",
+            "description": "I developed this website using HTML and CSS.",
+            "url": "https://github.com/ajaysinghpanwar2002/Ouronlinemeal_website",
+            "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+        },
+        {
+            "date": "29/1/2022",
+            "title": "Dancewebsite",
+            "description": "This is a dance website, I created it using Pug, CSS, JavaScript, Node.js, Express.js, MongoDB.",
+            "url": "https://github.com/ajaysinghpanwar2002/Dancewebsite",
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+        },
+        {
+            "date": "5/2/2022",
+            "title": "Realtime-chat-application",
+            "description": "i created this Real time chat application(like Whatsapp) using HTML, CSS, JavaScript, Node.js, Socket.IO.",
+            "url": "https://github.com/ajaysinghpanwar2002/Realtime-chat-application",
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+        },
+        {
+            "date": "27/4/2022",
+            "title": "Inotebook",
+            "description": "This is notebook on the cloud , It includes 1) CRUD functionality (for your notes) 2) user authentication 3) password hashing  4) login/signup",
+            "url": "https://github.com/ajaysinghpanwar2002/inotebook",
+            "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        },
+        {
+            "date": "3/7/2022",
+            "title": "React-Travelapp",
+            "description": "I have created Reusable components in React, and basic UI",
+            "url": "https://github.com/ajaysinghpanwar2002/React-Travelapp",
+            "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        },
+        {
+            "date": "1/10/2022",
+            "title": "Deverse",
+            "description": "We have created this application using javascript and face-api.js",
+            "url": "https://github.com/ajaysinghpanwar2002/Deverse",
+            "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+        },
+        {
+            "date": "3/10/2022",
+            "title": "TextEdit",
+            "description": "I created this app using React.js and Bootstrap. Features  1) Can convert Text to UpperCase/LowerCase 2) Clear Text /Copy Text in one click  4) Removes extra spaces from paragraph  5) Auto gramatical recomendations . 6) Can Count no of Words/Characters.  7) Gives you the estimate reading time of the Text . 8) Preview Text is also Enabled .",
+            "url": "https://github.com/ajaysinghpanwar2002/TextEdit",
+            "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+        },
+        {
+            "date": "07/10/2022",
+            "title": "Google Login",
+            "description": "React hooks, Firebase, Typescript",
+            "url": "https://github.com/ajaysinghpanwar2002/ReactProjects/tree/main/react-firebase",
+            "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+        },
+        {
+            "date": "11/10/2022",
+            "title": "VIDEO HUB",
+            "description": "I am creating this project using chakra UI",
+            "url": "https://github.com/ajaysinghpanwar2002/ReactProjects/tree/main/chakra-ui-videoapp",
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+        },
+        {
+            "date": "15/10/2022",
+            "title": "XCrypto",
+            "description": "React, React Hooks, ChakraUI",
+            "url": "https://github.com/ajaysinghpanwar2002/ReactProjects/tree/main/crypto-app",
+            "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+        },
+        {
+            "date": "1/12/2022",
+            "title": "Gdsc Website",
+            "description": "I have created the UI using react for the GDSC-AIT",
+            "url": "https://github.com/ajaysinghpanwar2002/gdsc-site",
+            "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        }
+    ]
+}
